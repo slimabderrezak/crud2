@@ -26,7 +26,7 @@ class Database {
 // User.php - Classe pour gérer les utilisateurs
 class User {
     private $conn;
-    private $table = 'abdel';
+    private $table = 'crud2';
 
     public $id;
     public $nom;
