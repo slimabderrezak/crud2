@@ -1,4 +1,4 @@
-<?php
+git<?php
 // config.php - Configuration de la base de données
 class Database {
     private $host = 'localhost';
